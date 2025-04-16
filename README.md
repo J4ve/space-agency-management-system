@@ -1,5 +1,4 @@
 # SPACE AGENCY MANAGEMENT SYSTEM
-(Diagram is in the pdf attached contained with the same documentation)
 
 ### Team Members:
 ● Jave
